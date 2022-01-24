@@ -25,6 +25,8 @@ https://www.udemy.com/course/kubernetes-les-bases-indispensables/?couponCode=BC6
 9- Docker pour DevOps
 https://www.udemy.com/course/docker-pour-devops/?couponCode=6347116F33EA2A4A464C
 
+10- Vagrant pour DevOps [2022] https://www.udemy.com/course/vagrant-pour-devops-creez-vos-infras-facilement/?couponCode=BB2F26A4BA452AAB3DD6
+
 All Courses at 15 EUR !
 
 Visit our website and support us : https://eazytraining.fr/cours
