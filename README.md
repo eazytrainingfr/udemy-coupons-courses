@@ -1,4 +1,6 @@
-1- Débutez avec DevOps et la CICD quand on est developpeur https://www.udemy.com/course/debutez-avec-devops-et-la-cicd-quand-on-est-developpeur/?couponCode=0C9FBD6E7D928C97E408
+0- NetDevOps : Automatisez votre parc réseau avec le DevOps : https://www.udemy.com/course/netdevops-automatisez-votre-parc-reseau-avec-le-devops/?couponCode=9CA1E661C4435BC26E7F
+
+1- Débutez avec DevOps et la CICD quand on est developpeur : https://www.udemy.com/course/debutez-avec-devops-et-la-cicd-quand-on-est-developpeur/?couponCode=0C9FBD6E7D928C97E408
 
 2- Monitoring à l'ère du DevOps et Microservice avec Prometheus : https://www.udemy.com/course/monitoring-a-lere-du-devops-et-microservice-avec-prometheus/?couponCode=2F6847378B701CE25A72
 
