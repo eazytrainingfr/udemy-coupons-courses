@@ -1,3 +1,5 @@
+OpenStack : Déployez et Administrez votre Cloud Privé : https://www.udemy.com/course/openstack-deployez-et-administrez-votre-cloud-prive/?couponCode=01D5B4B2D9CEF10623C3
+
 1- Ansible Expert - CICD avancé pour DevOps [2023] : https://www.udemy.com/course/ansible-expert-cicd-avance-pour-devops-2023/?couponCode=AF64D42A863C7DA63416
 
 2- NetDevOps : Automatisez votre parc réseau avec le DevOps : https://www.udemy.com/course/netdevops-automatisez-votre-parc-reseau-avec-le-devops/?couponCode=B73EAD54BA07BB69EC31
