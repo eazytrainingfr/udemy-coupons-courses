@@ -1,3 +1,7 @@
+AZURE DEVOPS : https://www.udemy.com/course/azure-devops-mettez-en-place-votre-cicd-dans-le-cloud/?couponCode=90617E27B90804908EFF
+
+AWS DevOps : https://www.udemy.com/course/aws-devops-automatisez-la-gestion-de-votre-infra/?couponCode=F2EA6019E86B05BBD988
+
 OpenStack : Déployez et Administrez votre Cloud Privé : https://www.udemy.com/course/openstack-deployez-et-administrez-votre-cloud-prive/?couponCode=01D5B4B2D9CEF10623C3
 
 1- Ansible Expert - CICD avancé pour DevOps [2023] : https://www.udemy.com/course/ansible-expert-cicd-avance-pour-devops-2023/?couponCode=AF64D42A863C7DA63416
