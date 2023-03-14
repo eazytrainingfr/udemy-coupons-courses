@@ -1,3 +1,5 @@
+Loadbalancing et haute disponibilité avec Haproxy et Squid : https://www.udemy.com/course/loadbalancing-et-haute-disponibilite-avec-haproxy-et-squid/?couponCode=0D89A1604305538AFF2D
+
 AZURE DEVOPS : https://www.udemy.com/course/azure-devops-mettez-en-place-votre-cicd-dans-le-cloud/?couponCode=A23197178194109F02AF
 
 TEKTON : https://www.udemy.com/course/tekton-realisez-des-pipelines-kubernetes-native/?couponCode=86354E3D2BCC2475CFF2
