@@ -1,3 +1,5 @@
+Créez et gérez votre activité de freelance : https://www.udemy.com/course/creez-et-gerez-votre-activite-de-freelance/?couponCode=CFEF8FEDBE3FDA667E5F
+
 Loadbalancing et haute disponibilité avec Haproxy et Squid : https://www.udemy.com/course/loadbalancing-et-haute-disponibilite-avec-haproxy-et-squid/?couponCode=0D89A1604305538AFF2D
 
 AZURE DEVOPS : https://www.udemy.com/course/azure-devops-mettez-en-place-votre-cicd-dans-le-cloud/?couponCode=A23197178194109F02AF
