@@ -1,3 +1,5 @@
+Projets DevOps - Mettez en oeuvre 7 projets CICD réels : https://www.udemy.com/course/projets-devops-mettez-en-oeuvre-7-projets-cicd-reels/?couponCode=74BBC291EFDCE4A5AE14
+
 Générez des compléments de revenu à l'aide de la formation : https://www.udemy.com/course/generez-des-complements-de-revenu-a-laide-de-la-formation/?couponCode=D330FEE220D9BAF77358
 
 Créez et gérez votre activité de freelance : https://www.udemy.com/course/creez-et-gerez-votre-activite-de-freelance/?couponCode=CFEF8FEDBE3FDA667E5F
