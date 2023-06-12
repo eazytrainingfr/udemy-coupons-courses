@@ -1,3 +1,5 @@
+Jenkins CI/CD pour DevOps [2023] : https://www.udemy.com/course/jenkins-cicd-pour-devops/?couponCode=CF033392B2F36428601A
+
 Projets DevOps - Mettez en oeuvre 7 projets CICD réels : https://www.udemy.com/course/projets-devops-mettez-en-oeuvre-7-projets-cicd-reels/?couponCode=F0C95B0FDFD66A5023F6
 
 Générez des compléments de revenu à l'aide de la formation : https://www.udemy.com/course/generez-des-complements-de-revenu-a-laide-de-la-formation/?couponCode=22CA4345EEF41BB43C5F
